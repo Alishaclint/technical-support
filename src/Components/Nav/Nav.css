@@ -1,0 +1,35 @@
+.head{ 
+    background-color: rgb(3, 3, 56);
+    margin-left: 1%;
+    margin-right: 1%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.logoname{
+    margin-left: 50px;
+    padding-top: 20px;    font-size: 28px;
+    color: white;
+}
+
+.head ul{
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-right: 130px;
+}
+
+
+.head li{
+    list-style: none;
+    display: inline;
+    color: white;
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+
+.head a{
+    text-decoration: none;
+    color: white;
+}

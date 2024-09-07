@@ -1,0 +1,11 @@
+.header{
+    background-color: rgb(3, 3, 56);
+    margin-left: 1%;
+    margin-right: 1%;
+    height: 80px;
+}
+.header .logo{
+    margin-left: 50px;
+    padding-top: 20px;    font-size: 28px;
+    color: white;
+}

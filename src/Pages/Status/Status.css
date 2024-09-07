@@ -1,0 +1,38 @@
+.statushead{
+font-size:xx-large;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 700;
+text-align: center;
+margin-top: 20px;
+}
+
+.tablestatus{
+    background-color: rgb(241, 230, 216);
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+th{
+    font-size: larger;
+    margin-top: 10%;
+    padding-bottom: 2%;
+}
+
+.eid{
+    padding-left: 9%;
+}
+
+.etitle{
+    padding-left: 11%;
+
+}
+.edate{
+    padding-left: 11%;
+
+}
+
+.estatus{
+    padding-left: 7%;
+
+}
